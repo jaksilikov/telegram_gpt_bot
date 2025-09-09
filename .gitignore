@@ -1,0 +1,4 @@
+# Не публикуем приватные данные
+history.json
+node_modules/
+.env

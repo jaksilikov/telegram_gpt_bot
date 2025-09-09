@@ -1,0 +1,17 @@
+{
+  "name": "telegram_gpt_bot",
+  "version": "1.0.0",
+  "description": "Telegram бот с GPT4Free, поддержкой истории и админ-промта",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mukhtar Zhaksylykob",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "gpt4js": "^1.0.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "dotenv": "^16.0.0"
+  }
+}
